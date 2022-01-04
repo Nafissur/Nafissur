@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nafissur
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Azure
+- 🌱 Experience in Azure and DevOps 
 - 💞️ I’m looking to collaborate on Azure
 - 📫 How to reach me nafissur@gmail.com @nafissur
 
